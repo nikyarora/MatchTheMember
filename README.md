@@ -1,4 +1,4 @@
-# MatchTheMember
+# Match The Member
 MDB Mini Project 1
 
 # App Purpose
